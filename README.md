@@ -38,7 +38,7 @@ If you would like to download my project, these are the steps:
         <li>
           Should have the link to the web application in the terminal/command line, or you can copy it here: 
           ```
-          app.py
+          [app.py](http://127.0.0.1:5000)
           ```
        </li>
        </ol>
