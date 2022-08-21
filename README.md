@@ -1,7 +1,14 @@
 # Audio Analyzer
-Who has tough times understanding their professor or teacher in online classes? Well, I very much did, so for the future, I can easily upload audio files to receive a perfect translation and clearly understand the content. This project analyzes the speech in a given .wav audio file and displays the text. 
-
-Technologies: Python, Flask, HTML, CSS
+A web application to upload .wav audio files and transcribe the text. 
 
 # Demo
 https://user-images.githubusercontent.com/104474913/185727846-f12252b6-59f4-44ec-a6cb-7f058f3fdbff.mov
+
+# Inspiration 
+During my first year in university, many of my classes were online, and going forward, I may have to get used to this. I recorded all these classes, but sometimes, understanding the professor was difficult, so with this application, I can understand the lectures with ease if I have the text format of the audio. 
+
+# Technology 
+This web application was built using a Flask backend to manage app routes and process GET/POST requests. I also used HTML and CSS to create a simple front-end. 
+
+# Usage
+
