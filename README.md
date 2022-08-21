@@ -12,3 +12,33 @@ This web application was built using a Flask backend to manage app routes and pr
 
 # Usage
 
+If you would like to download my project, these are the steps:
+        <ol>
+        <li>
+          ```
+          git clone https://github.com/dshah1010/audio-analyzer.git
+          ```
+       </li>
+       <li>
+          ```
+          pip install flask
+          ```
+       </li>
+       <li>
+          ```
+          pip install SpeechRecognition
+          ```
+       </li>
+       <li>
+          Run 
+          ```
+          app.py
+          ```
+       </li>
+        <li>
+          Should have the link to the web application in the terminal/command line, or you can copy it here: 
+          ```
+          app.py
+          ```
+       </li>
+       </ol>
