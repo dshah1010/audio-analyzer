@@ -15,6 +15,7 @@ This web application was built using a Flask backend to manage app routes and pr
 If you would like to download my project, these are the steps:
         <ol>
         <li>
+          Go to the directory you want in your command line and write:
           ```
           git clone https://github.com/dshah1010/audio-analyzer.git
           ```
