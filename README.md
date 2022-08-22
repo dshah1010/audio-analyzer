@@ -21,11 +21,16 @@ If you would like to download my project, these are the steps:
           ```
        </li>
        <li>
+          Write the following in the terminal:
           ```
           pip install flask
           ```
+          ```
+          pip install SpeechRecognition
+          ```
        </li>
        <li>
+          Write the following in the terminal:
           ```
           pip install SpeechRecognition
           ```
