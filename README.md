@@ -43,3 +43,6 @@ If you would like to download my project, these are the steps:
           ```
        </li>
        </ol>
+
+# What's Next?
+In the future, I plan to edit this by allowing users to choose other file formats such as .mp3 to upload as well, even though there are online converters to help with this situation. Upgrading the UI and adding a login could help with saving all these files and their captions within the account in case the audio is needed frequently. 
